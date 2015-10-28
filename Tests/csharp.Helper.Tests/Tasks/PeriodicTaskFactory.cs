@@ -1,10 +1,10 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace csharp.Helper.Tests
+namespace csharp.Helper.Tests.Tasks
 {
     [TestClass]
-    public class UnitTest1
+    public class PeriodicTaskFactory
     {
         [TestMethod]
         public void TestMethod1()
